@@ -9,13 +9,13 @@
         <!-- Wrapper for carousel items -->
             <div class="carousel-inner">
                 <div class="item active">
-                    <img src="<?php echo base_url();?>assets/images/business.jpg" alt="First Slide">
+                    <img src="<?php echo base_url('assets/images/business.jpg');?>" alt="First Slide">
                 </div>
                 <div class="item">
-                    <img src="<?php echo base_url();?>assets/images/android.jpg" alt="Second Slide">
+                    <img src="<?php echo base_url('assets/images/android.jpg');?>" alt="Second Slide">
                 </div>
                 <div class="item">
-                    <img src="<?php echo base_url();?>assets/images/business.jpg" alt="Third Slide">
+                    <img src="<?php echo base_url('assets/images/business.jpg');?>" alt="Third Slide">
                 </div>
             </div>
         <!-- Carousel controls -->
